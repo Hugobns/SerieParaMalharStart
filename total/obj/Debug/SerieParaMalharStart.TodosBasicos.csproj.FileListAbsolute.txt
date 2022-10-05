@@ -1,0 +1,8 @@
+C:\Users\hugob\source\repos\SerieParaMalharStart\total\bin\Debug\total.exe.config
+C:\Users\hugob\source\repos\SerieParaMalharStart\total\bin\Debug\total.exe
+C:\Users\hugob\source\repos\SerieParaMalharStart\total\bin\Debug\total.pdb
+C:\Users\hugob\source\repos\SerieParaMalharStart\total\obj\Debug\SerieParaMalharStart.TodosBasicos.csproj.AssemblyReference.cache
+C:\Users\hugob\source\repos\SerieParaMalharStart\total\obj\Debug\SerieParaMalharStart.TodosBasicos.csproj.SuggestedBindingRedirects.cache
+C:\Users\hugob\source\repos\SerieParaMalharStart\total\obj\Debug\SerieParaMalharStart.TodosBasicos.csproj.CoreCompileInputs.cache
+C:\Users\hugob\source\repos\SerieParaMalharStart\total\obj\Debug\total.exe
+C:\Users\hugob\source\repos\SerieParaMalharStart\total\obj\Debug\total.pdb

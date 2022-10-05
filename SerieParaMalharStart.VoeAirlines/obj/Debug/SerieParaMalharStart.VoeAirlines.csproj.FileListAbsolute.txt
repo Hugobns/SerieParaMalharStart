@@ -1,0 +1,8 @@
+C:\Users\hugob\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines\bin\Debug\SerieParaMalharStart.VoeAirlines.exe.config
+C:\Users\hugob\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines\bin\Debug\SerieParaMalharStart.VoeAirlines.exe
+C:\Users\hugob\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines\bin\Debug\SerieParaMalharStart.VoeAirlines.pdb
+C:\Users\hugob\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines\obj\Debug\SerieParaMalharStart.VoeAirlines.csproj.AssemblyReference.cache
+C:\Users\hugob\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines\obj\Debug\SerieParaMalharStart.VoeAirlines.csproj.SuggestedBindingRedirects.cache
+C:\Users\hugob\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines\obj\Debug\SerieParaMalharStart.VoeAirlines.csproj.CoreCompileInputs.cache
+C:\Users\hugob\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines\obj\Debug\SerieParaMalharStart.VoeAirlines.exe
+C:\Users\hugob\source\repos\SerieParaMalharStart\SerieParaMalharStart.VoeAirlines\obj\Debug\SerieParaMalharStart.VoeAirlines.pdb

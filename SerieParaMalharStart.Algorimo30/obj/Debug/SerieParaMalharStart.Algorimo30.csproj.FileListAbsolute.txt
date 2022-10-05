@@ -1,0 +1,8 @@
+C:\Users\hugob\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algorimo30\obj\Debug\SerieParaMalharStart.Algorimo30.csproj.AssemblyReference.cache
+C:\Users\hugob\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algorimo30\obj\Debug\SerieParaMalharStart.Algorimo30.csproj.SuggestedBindingRedirects.cache
+C:\Users\hugob\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algorimo30\obj\Debug\SerieParaMalharStart.Algorimo30.csproj.CoreCompileInputs.cache
+C:\Users\hugob\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algorimo30\bin\Debug\SerieParaMalharStart.Algorimo30.exe.config
+C:\Users\hugob\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algorimo30\bin\Debug\SerieParaMalharStart.Algorimo30.exe
+C:\Users\hugob\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algorimo30\bin\Debug\SerieParaMalharStart.Algorimo30.pdb
+C:\Users\hugob\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algorimo30\obj\Debug\SerieParaMalharStart.Algorimo30.exe
+C:\Users\hugob\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algorimo30\obj\Debug\SerieParaMalharStart.Algorimo30.pdb

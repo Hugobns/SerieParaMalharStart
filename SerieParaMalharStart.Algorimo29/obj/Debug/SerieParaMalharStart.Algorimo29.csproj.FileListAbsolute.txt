@@ -1,0 +1,8 @@
+C:\Users\hugob\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algorimo29\obj\Debug\SerieParaMalharStart.Algorimo29.csproj.AssemblyReference.cache
+C:\Users\hugob\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algorimo29\obj\Debug\SerieParaMalharStart.Algorimo29.csproj.SuggestedBindingRedirects.cache
+C:\Users\hugob\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algorimo29\obj\Debug\SerieParaMalharStart.Algorimo29.csproj.CoreCompileInputs.cache
+C:\Users\hugob\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algorimo29\bin\Debug\SerieParaMalharStart.Algorimo29.exe.config
+C:\Users\hugob\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algorimo29\bin\Debug\SerieParaMalharStart.Algorimo29.exe
+C:\Users\hugob\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algorimo29\bin\Debug\SerieParaMalharStart.Algorimo29.pdb
+C:\Users\hugob\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algorimo29\obj\Debug\SerieParaMalharStart.Algorimo29.exe
+C:\Users\hugob\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algorimo29\obj\Debug\SerieParaMalharStart.Algorimo29.pdb
